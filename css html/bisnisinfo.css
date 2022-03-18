@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700');
+
+.navbar {
+    font-family: 'Quicksand', sans-serif;
+    color: red;
+  }
+  
+  .navbar-brand {
+      font-size: xx-large;
+      font-family: 'Quicksand', sans-serif;
+  }
+  
+  .logonav img {
+    position: absolute;
+    width: 200px;
+    margin-top: -25px;
+  }
+  
+.isi-konten {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.jumbotron {
+    margin-top: -80px;
+    background-color: #fcde57;
+}
+
+.collapse .navbar-collapse {
+      font-size: xs-large;
+      font-family: 'Quicksand', sans-serif;
+}
+
+.navbar-brand {
+    font-size: xx-large;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.collapse {
+    font-size: xs-large;
+}
+
+.isi-konten {
+    margin-top: 130px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+#muat-konten {
+    font-family: 'Quicksand', sans-serif;
+    margin-top: -32px;
+}
+
+.footer-basic {
+    padding:0px;
+    background-color:#ffffff;
+    color:#4b4c4d;
+  }
+  
+  .footer-basic ul {
+    padding:0;
+    list-style:none;
+    text-align:center;
+    font-size:18px;
+    line-height:1.6;
+    margin-bottom:0;
+  }
+  
+  .footer-basic li {
+    padding:0 10px;
+  }
+  
+  .footer-basic ul a {
+    color:inherit;
+    text-decoration:none;
+    opacity:0.8;
+  }
+  
+  .footer-basic ul a:hover {
+    opacity:1;
+  }
+  
+  .footer-basic .social {
+    text-align:center;
+
+  }
+  
+  .footer-basic .social > a {
+    font-size:24px;
+    width:40px;
+    height:40px;
+    line-height:40px;
+    display:inline-block;
+    text-align:center;
+    border-radius:50%;
+    border:1px solid #ccc;
+    margin:0 8px;
+    color:inherit;
+    opacity:0.75;
+  }
+  
+  .footer-basic .social > a:hover {
+    opacity:0.9;
+  }
+  
+  .footer-basic .copyright {
+    margin-top:15px;
+    text-align:center;
+    font-size:18px;
+    color:#aaa;
+    margin-bottom:0;
+  }
+
+  .stat-widget-four {
+    position: relative;
+}
+
+.stat-widget-four .stat-icon {
+    display: inline-block;
+    position: absolute;
+    top: 5px;
+}
+
+.stat-widget-four i {
+    display: block;
+    font-size: 36px;
+}
+
+.stat-widget-four .stat-content {
+    margin-left: 40px;
+    text-align: center;
+}
+
+.dib {
+    display: inline-block;
+}
+
+.card {
+    border-color: #002244;
+}
+
+.ti-close {
+  color: red;
+}
+
+.ti-money {
+  color: rgb(52, 148, 52);
+}
+
+.ti-user {
+  color: #fcde57;
+}
+
+.ti-reload {
+  color: blue;
+}
+
+.avatarnav {
+  border-radius: 50%;
+  width: 36px;
+  height: 36px;
+  margin: -0px 0;
+  margin-right: 0px;
+  float: left;
+  margin-right: 10px;
+}
+
+.checked {
+  color: orange;
+}
+
+.ti-bar-chart {
+  color: aquamarine;
+}
+
+.ti-home {
+  color: #fcde57;
+}

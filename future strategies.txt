@@ -1,0 +1,32 @@
+Future Strategies:
+
+1. Target pasar baru:
+Saat ini, Investart menghubungkan antara investor dan UMKM.
+Di masa yang akan datang, kami akan menambah target pasar yang baru selain
+UMKM, seperti startup, serta usaha- usaha kelas menengah atas.
+
+2. Fitur Bantuan:
+Untuk kedepannya, kami akan segera menghadirkan fitur bantuan, dimana
+di dalamnya akan berisikan FAQ yang lengkap, kolom keluhan, serta kolom 
+pertanyaan, dimana diharapkan fitur tersebut dapat membantu pengguna.
+
+3. Layanan langsung:
+Kami akan membuka pelayanan langsung dimana pengguna yang kurang memahami
+penggunaan aplikasi dapat langsung datang ke kantor kami untuk memperoleh
+solusi maupun bantuan secara langsung dalam memulai bisnis/ investasi, serta
+keluhan dan pertanyaan lain.
+
+4. Fitur Saham:
+Selain investasi berupa bantuan modal usaha, di masa yang akan datang,
+kami berencana menghadirkan fitur saham, dimana pengguna dapat melakukan
+pembelian serta penjualan saham, serta memantau aktivitas pasar saham dari 
+perusahaan- perusahaan yang bekerja sama dengan kami.
+
+5. Fitur Emas:
+Selain saham, kami juga berencana menghadirkan bentuk investasi baru dalam
+bentuk emas, dimana pengguna dapat melakukan pembelian dan penjualan emas,
+serta memantau grafik harga pembelian dan penjualan emas.
+
+6. Pembaruan terjadwal:
+Untuk menjaga segala sesuatu pada aplikasi dapat berjalan dengan baik,
+kami akan melakukan pembaruan- pembaruan kecil setiap bulannya.
